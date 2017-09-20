@@ -7,25 +7,25 @@ Data on extreme weather events and casualties was obtained from the National Cli
 —> the major data set (all sets combined) is included as file: all_storm_events_victims.csv.bz2  
 
 Data on global and US temperatures and atmospheric carbon dioxide concentration was obtained from KAGGLE:  
--www.kaggle.com  
+- www.kaggle.com  
 —> data sets included as files: 1. GlobalLandTemperaturesByState.csv 2. carbon_dioxide_levels.csv  
 
 Data on global carbon dioxide emission was obtained from the Carbon Dioxide Information Analysis Center:  
--http://cdiac.ornl.gov/CO2_Emission/timeseries/global  
+- http://cdiac.ornl.gov/CO2_Emission/timeseries/global  
 —> data set included as file: Global_emission_8192.csv  
 
 US census data was obtained from:  
--www.populationpyramid.net   
+- www.populationpyramid.net   
 —> data set included as file: census_usa.csv  
 
 Data on historic consumer price index (US) was obtained from:  
--www.inflationdata.com  
+- www.inflationdata.com  
 —> data set included as file: CPI_usa.csv  
 
 Following Python scripts were used to scrape the data:  
--scrape_weather_casualties_data.py (for data on extreme weather)  
--scrape_census_data.py (for US census data)  
--scrape_consumer_price_index.py (for US consumer price index data)  
+- scrape_weather_casualties_data.py (for data on extreme weather)  
+- scrape_census_data.py (for US census data)  
+- scrape_consumer_price_index.py (for US consumer price index data)  
 
 Storm_Data_Export_Format.docx is provided by the National Climatic Data Center and contains a description about each variable in the extreme weather and casualties data set.  
 
